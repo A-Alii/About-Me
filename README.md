@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/A-Alii/A-Alii.svg)](http://hits.dwyl.com/A-Alii/A-Alii)
+
 - 🔭 I’m a Software Engineer.
 - 🌱 Learning everyday, 
 - 👯 I’m always looking for challenging work oppurtunities ahead.
