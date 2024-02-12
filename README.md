@@ -6,9 +6,7 @@
 
 ## Other places you can find me.
 
-- [LinkedIn](linkedin.com/in/ahmed-ali-mahmoud-7169b4160)
-- [Twitter](https://twitter.com/3lilioo)
-- [My Resume](https://drive.google.com/file/d/1hiJ3Whjqz3XJ9mHxOPj2AKZ-ymJL2hUv/view?usp=sharing)
+- [LinkedIn]([linkedin.com/in/ahmed-ali-mahmoud-7169b4160](https://www.linkedin.com/in/ahmed-ali-7169b4160))
 
 <!--
 **A-Alii/A-Alii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
